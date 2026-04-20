@@ -1,4 +1,4 @@
-# CPCS204 - Assignment 1: Linked List Node Deletion
+# Linked List Node Deletion
 
 ## Project Overview
 This Java project demonstrates working with a singly linked list.  
