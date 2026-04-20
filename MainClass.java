@@ -1,14 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package assignment1test;
-
-/**
- *
- * @author shaha
- */
 import java.util.*;
 
 class Node {
@@ -32,7 +21,7 @@ class Node {
     }
 }
 
-public class Assignment1test {
+public class MAinClass {
 
     public static Node deleteNodes(Node head, int m, int n) {
         Node ptr = head;
